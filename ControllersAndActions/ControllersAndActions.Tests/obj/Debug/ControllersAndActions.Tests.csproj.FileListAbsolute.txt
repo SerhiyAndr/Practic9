@@ -1,0 +1,2 @@
+G:\Practic9\ControllersAndActions\ControllersAndActions.Tests\obj\Debug\ControllersAndActions.Tests.csproj.AssemblyReference.cache
+G:\Practic9\ControllersAndActions\ControllersAndActions.Tests\obj\Debug\ControllersAndActions.Tests.csproj.CoreCompileInputs.cache
